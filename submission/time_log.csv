@@ -1,2 +1,3 @@
 step,images,minutes,note
-gold_manual,4,35,"Gan nhan thu cong tren CVAT; 44 doi tuong; xuat COCO 1.0; kiem tra OK"
+gold_manual,4,60,"Gan nhan thu cong tren CVAT; 44 doi tuong; xuat COCO 1.0; kiem tra OK"
+batch_review,24,30,"Ra soat va chinh sua nhan AI tren CVAT; 464 doi tuong; xuat COCO 1.0; kiem tra cau truc OK; phat hien 5/12 bay AI (41.7%); can tiep tuc ra soat"

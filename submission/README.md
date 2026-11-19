@@ -12,4 +12,4 @@ Xem cấu trúc bắt buộc ở [../SUBMISSION.md](../SUBMISSION.md). Các file
 | `qc/qc_review.csv` | do `qc_sample.py` tạo sẵn; bạn điền `error_type` | |
 | `masks/*.jpg` | ảnh mask từ `sam2_points.py --out submission/masks --name ...` (≥ 3) | |
 
-Các file còn lại do **script** sinh ra: **không sửa tay**.
+Các file còn lại do **script** sinh ra: không sửa tay.

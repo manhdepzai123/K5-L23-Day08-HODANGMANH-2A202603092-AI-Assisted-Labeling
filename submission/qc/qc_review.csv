@@ -1,0 +1,12 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,HỒ ĐĂNG MẠNH,"Rà soát sơ bộ; chưa thấy lỗi rõ ràng."
+img_005.jpg,MISSING-005-01,bo_sot,HỒ ĐĂNG MẠNH,"Nghi bỏ sót người đội mũ đỏ áo xanh phía sau người đội mũ hồng; cần xác minh."
+img_005.jpg,MISSING-005-02,bo_sot,HỒ ĐĂNG MẠNH,"Nghi bỏ sót người đội mũ xanh lá áo trắng bị che giữa đám đông; cần xác minh."
+img_005.jpg,MISSING-005-03,bo_sot,HỒ ĐĂNG MẠNH,"Nghi bỏ sót xe máy đen sát mép phải; cần xác minh."
+img_008.jpg,,khong,HỒ ĐĂNG MẠNH,"Rà soát sơ bộ; chưa thấy lỗi rõ ràng."
+img_014.jpg,,khong,HỒ ĐĂNG MẠNH,"Rà soát sơ bộ; chưa thấy lỗi rõ ràng."
+img_017.jpg,,khong,HỒ ĐĂNG MẠNH,"Chưa thấy lỗi rõ ràng; cần kiểm tra kỹ box #117."
+img_022.jpg,200,sai_vi_tri_kich_thuoc,HỒ ĐĂNG MẠNH,"Box người #200 sát mép phải chưa ôm hết phần lưng và áo; cần xác minh."
+img_034.jpg,376,sai_vi_tri_kich_thuoc,HỒ ĐĂNG MẠNH,"Box người #376 trên xe tay ga trắng chưa ôm hết phần chân nhìn thấy; cần xác minh."
+img_034.jpg,MISSING-034-01,bo_sot,HỒ ĐĂNG MẠNH,"Nghi bỏ sót xe máy tối màu phía sau xe tay ga trắng; cần xác minh."
+img_035.jpg,,khong,HỒ ĐĂNG MẠNH,"Rà soát sơ bộ; chưa thấy lỗi rõ ràng."
